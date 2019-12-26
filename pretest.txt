@@ -1,0 +1,22 @@
+package revere;
+
+public class StringReverse {
+
+	public static void main(String[] args) {
+		String str="hellooo",rev="";
+		int l=str.length();
+		int vow=0;
+		for(int i=l-1;i>=0;i--)
+		{
+			rev=rev+str.charAt(i);
+			char ch=str.charAt(i);
+			if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u')
+			{
+				vow++;
+			}
+		}
+		System.out.print(rev+"   "+vow);
+
+	}
+
+}
