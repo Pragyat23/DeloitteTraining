@@ -1,47 +1,26 @@
 package AssignmentEmployee;
 
-public class Employee extends Person {
-	
+public class Employee extends Person{
+
 	protected Department dept;
 	protected int id;
 
-	public Employee(String name, int id,Department dept)
-	{
+	public Employee(String name, int id, Department dept) {
 		super(name);
 		this.id=id;
-		this.dept=dept;				
+		this.dept=dept;
+		// TODO Auto-generated constructor stub
 	}
 
-	@Override
-	public String toString() {
-		return "Employee [dept=" + dept + ", id=" + id + "]";
-	}
-
-	public Employee(String name,Address addr,int id,Department dept)
-	{
+	public Employee(String name, int id, Department dep,Address addr) {
 		super(name,addr);
 		this.id=id;
 		this.dept=dept;
+		// TODO Auto-generated constructor stub
 	}
 		
-	public Department getDept() {
-		return dept;
-	}
-
-	public void setDept(Department dept) {
-		this.dept = dept;
-	}
-
-	public int getId() {
-		return id;
-	}
-
-	public void setId(int id) {
-		this.id = id;
-	}
-
 	public static void main(String[] args) {
-		
+		// TODO Auto-generated method stub
 
 	}
 

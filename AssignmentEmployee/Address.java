@@ -1,12 +1,12 @@
 package AssignmentEmployee;
 
 public class Address {
-	
+
 	protected int houseno;
 	protected String street;
 	protected String city;
 	protected String state;
-
+	
 	@Override
 	public String toString() {
 		return "Address [houseno=" + houseno + ", street=" + street + ", city=" + city + ", state=" + state + "]";
@@ -53,7 +53,7 @@ public class Address {
 	}
 
 	public static void main(String[] args) {
-		
+		// TODO Auto-generated method stub
 
 	}
 
