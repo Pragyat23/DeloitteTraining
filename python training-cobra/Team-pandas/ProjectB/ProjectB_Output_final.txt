@@ -1,0 +1,41 @@
+TrackId	AlbumId	Name	
+1	1	For Those About To Rock (We Salute You)
+2	2	Balls to the Wall
+3	3	Fast As a Shark
+4	3	Restless and Wild
+5	3	Princess of the Dawn
+6	1	Put The Finger On You
+7	1	Let's Get It Up
+8	1	Inject The Venom
+9	1	Snowballed
+10	1	Evil Walks
+3	3	Fast As a Shark
+4	3	Restless and Wild
+5	3	Princess of the Dawn
+23	5	Walk On Water
+24	5	Love In An Elevator
+25	5	Rag Doll
+26	5	What It Takes
+27	5	Dude (Looks Like A Lady)
+28	5	Janie's Got A Gun
+29	5	Cryin'
+1	1	For Those About To Rock (We Salute You)
+2	2	Balls to the Wall
+3	3	Fast As a Shark
+4	3	Restless and Wild
+5	3	Princess of the Dawn
+152	16	N.I.B.
+160	17	Supernaut
+1278	101	Wrathchild
+1283	101	Killers
+1335	106	Where Eagles Dare
+2819	226	Battlestar Galactica: The Story So Far
+2820	227	Occupation / Precipice
+2821	227	Exodus, Pt. 1
+2822	227	Exodus, Pt. 2
+2823	227	Collaborators
+2824	227	Torn
+2825	227	A Measure of Salvation
+2826	227	Hero
+2827	227	Unfinished Business
+2828	227	The Passage
